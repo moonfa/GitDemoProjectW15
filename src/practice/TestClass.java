@@ -8,6 +8,7 @@ public class TestClass {
 		System.out.println("create by team leader");
 		System.out.println("sss");
 		System.out.println("This is from thilan");
+		System.out.print("aaaa");
 		
 		//
 
